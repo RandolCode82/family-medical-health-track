@@ -1,0 +1,1 @@
+{\n  \"name\": \"family-medical-health-track\",\n  \"version\": \"1.0.0\",\n  \"private\": true,\n  \"dependencies\": {\n    \"react-native\": \"^0.64.0\",\n    \"expo\": \"^42.0.0\"\n  }\n}
